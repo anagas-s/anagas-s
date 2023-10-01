@@ -30,3 +30,4 @@
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anagas-s&" alt="anagas-s" /></p>
 
+[![An image of @anagass's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anagass)](https://holopin.io/@anagass)
